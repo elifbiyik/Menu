@@ -1,0 +1,11 @@
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\WINPRO10\Desktop\Menu\Menu\Menu\obj\Debug\Menu.MEnu.resources

@@ -171,7 +171,7 @@ namespace Menu
             int total = priceTea + priceCoffee + priceLemonade + 
                 priceSoda + priceHotC + priceChees + priceTir;
 
-            MessageBox.Show("Total " + total);
+            MessageBox.Show("Total : " + total);
           
         }
 
@@ -194,7 +194,6 @@ namespace Menu
             label_soda.Text = "0";
 
             listBox1.Items.Clear();
-
         }
 
         private void button_exit_Click(object sender, EventArgs e)
